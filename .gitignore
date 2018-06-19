@@ -8,4 +8,5 @@ node_modules
 .tern-project
 .settings
 selenium-client-jars/
+assets/server.key
 test/artifacts
