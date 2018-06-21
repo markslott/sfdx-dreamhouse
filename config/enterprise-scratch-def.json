@@ -1,6 +1,7 @@
 {
   "orgName": "Your Company",
   "edition": "Enterprise",
+  "features": "DebugApex",
   "orgPreferences": {
     "enabled": [
       "S1DesktopEnabled"
