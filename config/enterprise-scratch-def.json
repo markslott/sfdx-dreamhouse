@@ -5,9 +5,6 @@
   "orgPreferences": {
     "enabled": [
       "S1DesktopEnabled"
-    ],
-    "disabled": [
-      "ChatterEnabled"
     ]
   }
 }

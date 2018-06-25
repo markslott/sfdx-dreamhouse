@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
     "defaultusername": "master1"
+=======
+    "defaultdevhubusername": "mlott@msl.sdo22.demo",
+    "defaultusername": "feature1"
+>>>>>>> feature1
 }
