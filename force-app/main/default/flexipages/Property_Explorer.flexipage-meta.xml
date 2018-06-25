@@ -28,16 +28,6 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
-            <componentName>PropertySummary</componentName>
-        </componentInstances>
-        <componentInstances>
-            <componentName>PropertyDaysOnMarketChart</componentName>
-        </componentInstances>
-        <name>region2</name>
-        <type>Region</type>
-    </flexiPageRegions>
-    <flexiPageRegions>
-        <componentInstances>
             <componentInstanceProperties>
                 <name>latField</name>
                 <value>Location__Latitude__s</value>
@@ -52,6 +42,16 @@
             </componentInstanceProperties>
             <componentName>MapCard</componentName>
         </componentInstances>
+        <componentInstances>
+            <componentName>PropertySummary</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>PropertyDaysOnMarketChart</componentName>
+        </componentInstances>
+        <name>region2</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
         <name>region3</name>
         <type>Region</type>
     </flexiPageRegions>
